@@ -1,2 +1,2 @@
 # JSWork
-Trabalhos da aula JS
+Atividades de JS na aula da Paula ! ! 
